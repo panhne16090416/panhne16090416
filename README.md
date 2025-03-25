@@ -9,10 +9,16 @@ Welcome to my GitHub! 🚀
 
 ---
 ## 📂 Projects  
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23FF5733.svg?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Tic Tac Toe](https://img.shields.io/badge/Tic%20Tac%20Toe-%233776AB.svg?style=for-the-badge&logo=gamepad&logoColor=white)  
-![Fake News Detection](https://img.shields.io/badge/Fake%20News-%23E4405F.svg?style=for-the-badge&logo=firebase&logoColor=white)  
-![Movie Recommender](https://img.shields.io/badge/Movie%20Recommender-%2300D8FF.svg?style=for-the-badge&logo=netflix&logoColor=white)  
+## 📂 Projects  
+
+[![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23FF5733.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/panhne16090416/Sentiment-Analysis-in-Restaurants)  
+
+[![Tic Tac Toe](https://img.shields.io/badge/Tic%20Tac%20Toe-%233776AB.svg?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/panhne16090416/Game_Tic-tac-toe)  
+
+[![Fake News Detection](https://img.shields.io/badge/Fake%20News-%23E4405F.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/panhne16090416/Fakenews)  
+
+[![Movie Recommender](https://img.shields.io/badge/Movie%20Recommender-%2300D8FF.svg?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/panhne16090416/Movie_RecommenderSystem)  
+
 
 ---
 

@@ -9,7 +9,6 @@ Welcome to my GitHub! 🚀
 
 ---
 ## 📂 Projects  
-## 📂 Projects  
 
 [![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23FF5733.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/panhne16090416/Sentiment-Analysis-in-Restaurants)  
 
